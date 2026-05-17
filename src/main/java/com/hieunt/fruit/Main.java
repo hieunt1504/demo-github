@@ -24,6 +24,9 @@ public class Main {
         Fruit sung = mapper.readValue(sungJSON, Fruit.class); //rã, parse, new ngầm
         System.out.println("Quá đã JSON ơi: " + sung.toString());
     }
+    public String Muaban(){
+        return "Hahahah";
+    }
 //static void main() {
 //    System.out.println("Hello Maven");
 //}
