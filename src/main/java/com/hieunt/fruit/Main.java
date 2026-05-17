@@ -27,6 +27,8 @@ public class Main {
     public String Muaban(){
         return "Hahahah";
     }
+
+
 //static void main() {
 //    System.out.println("Hello Maven");
 //}
